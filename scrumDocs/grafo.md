@@ -1,5 +1,10 @@
 # Grafo de Dependencias -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:18:13.192Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:26:09.371Z -- no editar a mano, se sobreescribe en cada publicacion._
 
-_Todavia no hay Requerimientos cargados._
+```mermaid
+graph TD
+  subgraph US_1788275867284["HU-01: Presentación del Perfil y Trabajos Destacados"]
+    REQ_1788276365513["RF-01: Sección Hero con perfil profesional y biografía"]
+  end
+```
