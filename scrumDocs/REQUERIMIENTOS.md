@@ -1,6 +1,6 @@
 # Requerimientos -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:26:36.404Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:26:42.535Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
@@ -11,3 +11,11 @@ Diseñar e implementar la sección principal (Hero) que muestra foto/avatar, nom
 ### RF-02: Sección de Habilidades clasificadas por categoría (Funcional)
 
 Implementar el componente de visualización de habilidades del profesional agrupadas dinámicamente por categoría (Frontend, Backend, Herramientas).
+
+### RF-03: Galería de proyectos destacados con enlaces (Funcional)
+
+Implementar la galería interactiva de proyectos presentados en tarjetas con imagen, título, síntesis, badges de tecnologías y botones a Live Demo y código fuente.
+
+### RNF-01: Layout responsive, accesibilidad y optimización SEO (No funcional)
+
+Garantizar que la interfaz SPA/SSG sea completamente responsive (móvil, tablet, escritorio), cumpla pautas de accesibilidad y estructura semántica SEO.
