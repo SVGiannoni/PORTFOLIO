@@ -1,6 +1,6 @@
 # Requerimientos -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:26:47.836Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:26:50.530Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
@@ -31,3 +31,9 @@ Implementar la vista o modal interactivo que despliega la descripción extendida
 ### RF-01: Formulario de contacto con validaciones en tiempo real y protección antispam (Funcional)
 
 Implementar el formulario de contacto con validación de campos requeridos (Nombre, Email, Asunto, Mensaje), verificación de formato de email, protección antispam/rate limiting y feedback visual del envío asíncrono.
+
+## HU-04: Descarga e Inspección de CV / Resume
+
+### RF-01: Botón de acción y descarga/inspección de CV en PDF (Funcional)
+
+Añadir los botones de acción destacados ("Descargar CV") en el encabezado y en la sección de contacto para la descarga directa o apertura en pestaña del curriculum en formato PDF.
