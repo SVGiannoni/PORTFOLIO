@@ -1,6 +1,6 @@
 # Historias de Usuario -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:18:03.434Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:18:10.949Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
@@ -45,3 +45,16 @@ Como interesado en contratar o colaborar, quiero enviar un mensaje directamente 
 ### Detalle Tecnico y Reglas de Negocio
 
 Envío asíncrono hacia un backend/servicio de mailing con feedback claro al usuario.
+
+## HU-04: Descarga e Inspección de CV / Resume
+
+Como reclutador técnico, quiero descargar o previsualizar el CV en formato PDF desde el portfolio para guardarlo o compartirlo con el equipo de selección.
+
+### Criterios de Aceptacion
+
+- Botón de acción destacado ("Descargar CV") visible en el encabezado y en la sección de contacto.
+- Apertura del CV en formato PDF en una pestaña del navegador o descarga directa.
+
+### Detalle Tecnico y Reglas de Negocio
+
+Documento PDF estático alojado en activos públicos y optimizado para peso y lectura.
