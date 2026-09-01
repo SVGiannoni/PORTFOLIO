@@ -1,6 +1,6 @@
 # Requerimientos -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:26:42.535Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:26:45.464Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
@@ -19,3 +19,9 @@ Implementar la galería interactiva de proyectos presentados en tarjetas con ima
 ### RNF-01: Layout responsive, accesibilidad y optimización SEO (No funcional)
 
 Garantizar que la interfaz SPA/SSG sea completamente responsive (móvil, tablet, escritorio), cumpla pautas de accesibilidad y estructura semántica SEO.
+
+## HU-02: Visualización Detallada de un Proyecto
+
+### RF-01: Vista/Modal de caso de estudio detallado de proyecto (Funcional)
+
+Implementar la vista o modal interactivo que despliega la descripción extendida del proyecto, capturas, arquitectura utilizada, desafíos superados y enlaces a Live Demo y GitHub.
