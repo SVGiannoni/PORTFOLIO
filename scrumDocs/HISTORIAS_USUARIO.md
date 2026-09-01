@@ -1,6 +1,6 @@
 # Historias de Usuario -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:17:57.561Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:18:03.434Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
@@ -30,3 +30,18 @@ Como reclutador o cliente potencial, quiero hacer clic en un proyecto del portfo
 ### Detalle Tecnico y Reglas de Negocio
 
 Carga dinámica del detalle de proyectos con navegación amigable y soporte para URLs directas si aplica.
+
+## HU-03: Envío de Mensajes de Contacto
+
+Como interesado en contratar o colaborar, quiero enviar un mensaje directamente desde el formulario de contacto para establecer comunicación con el profesional.
+
+### Criterios de Aceptacion
+
+- Formulario de contacto con campos requeridos: Nombre, Email, Asunto y Mensaje.
+- Validación de campos requeridos y formato de correo electrónico en tiempo real.
+- Notificación visual de confirmación de envío exitoso o alerta en caso de error.
+- Protección contra spam o múltiples envíos seguidos.
+
+### Detalle Tecnico y Reglas de Negocio
+
+Envío asíncrono hacia un backend/servicio de mailing con feedback claro al usuario.
