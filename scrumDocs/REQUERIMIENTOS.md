@@ -1,6 +1,6 @@
 # Requerimientos -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:26:45.464Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:26:47.836Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
@@ -25,3 +25,9 @@ Garantizar que la interfaz SPA/SSG sea completamente responsive (móvil, tablet,
 ### RF-01: Vista/Modal de caso de estudio detallado de proyecto (Funcional)
 
 Implementar la vista o modal interactivo que despliega la descripción extendida del proyecto, capturas, arquitectura utilizada, desafíos superados y enlaces a Live Demo y GitHub.
+
+## HU-03: Envío de Mensajes de Contacto
+
+### RF-01: Formulario de contacto con validaciones en tiempo real y protección antispam (Funcional)
+
+Implementar el formulario de contacto con validación de campos requeridos (Nombre, Email, Asunto, Mensaje), verificación de formato de email, protección antispam/rate limiting y feedback visual del envío asíncrono.
