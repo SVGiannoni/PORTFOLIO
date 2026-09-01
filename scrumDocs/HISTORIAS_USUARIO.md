@@ -1,6 +1,6 @@
 # Historias de Usuario -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-01T15:54:08.116Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-01T15:54:49.223Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
