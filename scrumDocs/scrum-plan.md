@@ -1,12 +1,12 @@
 # Plan de Requerimientos — PORTFOLIO 
 
-_Generado automáticamente el 2026-09-01T15:54:48.008Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-01T15:57:16.972Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
 | Orden | Código | Requerimiento | Historia de Usuario | Módulo | Entrega | Estado | Desarrollador | Depende de | Rechazos |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | RF-01 | Sección Hero con perfil profesional y biografía | HU-01 | — | — | Hacer | dev-portfolio | — | — |
+| 1 | RF-01 | Sección Hero con perfil profesional y biografía | HU-01 | — | — | Haciendo | dev-portfolio | — | — |
 | 2 | RF-02 | Sección de Habilidades clasificadas por categoría | HU-01 | — | — | Hacer | dev-portfolio | — | — |
 | 3 | RF-03 | Galería de proyectos destacados con enlaces | HU-01 | — | — | Hacer | dev-portfolio | — | — |
 | 4 | RNF-01 | Layout responsive, accesibilidad y optimización SEO | HU-01 | — | — | Hacer | dev-portfolio | — | — |
@@ -17,6 +17,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 ## Detalle
 
 ### RF-01 — Sección Hero con perfil profesional y biografía
+Inicio de desarrollo de requerimiento HU-01
 - Estimado: 3h
 
 ### RF-02 — Sección de Habilidades clasificadas por categoría
