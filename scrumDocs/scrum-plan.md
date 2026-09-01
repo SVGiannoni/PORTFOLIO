@@ -1,6 +1,6 @@
 # Plan de Requerimientos — PORTFOLIO 
 
-_Generado automáticamente el 2026-09-01T15:26:48.399Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-01T15:31:25.197Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -17,7 +17,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 ## Detalle
 
 ### RF-01 — Sección Hero con perfil profesional y biografía
-- Estimado: 0h
+- Estimado: 4h
 
 ### RF-02 — Sección de Habilidades clasificadas por categoría
 - Estimado: 0h
