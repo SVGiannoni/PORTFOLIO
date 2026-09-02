@@ -1,6 +1,6 @@
 # Requerimientos -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-02T13:08:04.612Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-02T13:08:07.719Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
