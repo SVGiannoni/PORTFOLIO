@@ -1,6 +1,6 @@
 # Plan de Requerimientos — PORTFOLIO 
 
-_Generado automáticamente el 2026-09-02T12:49:46.608Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-02T13:08:11.078Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -37,10 +37,9 @@ Modal interactivo de caso de estudio completado y verificado para HU-02
 - Estimado: 4h
 
 ### RF-01 — Formulario de contacto con validaciones en tiempo real y protección antispam
-Formulario interactivo completado con validación en tiempo real, honeypot y rate-limiting para HU-03
+Formulario de contacto interactivo completado con validación en tiempo real, honeypot antispam y rate-limiting (HU-03 / RF-01)
 - Estimado: 3h
 
 ### RF-01 — Botón de acción y descarga/inspección de CV en PDF
-Botones de descarga directa y previsualización de CV en PDF integrados en Header, Hero y Contacto para HU-04
+Botones de descarga y previsualización de CV en PDF integrados en Header, Hero y Contacto con PDF adjunto (HU-04 / RF-01)
 - Estimado: 1h
-
