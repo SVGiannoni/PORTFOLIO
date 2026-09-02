@@ -3,7 +3,6 @@ version: '3.8'
 services:
   portfolio:
     build: .
-    container_name: portfolio-web
     ports:
-      - "8085:80"
+      - "${PORT:-8085}:80"
     restart: always
