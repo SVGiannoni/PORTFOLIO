@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-02T13:01:58.117Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-02T13:08:06.071Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
