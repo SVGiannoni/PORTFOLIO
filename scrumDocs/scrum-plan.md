@@ -11,8 +11,8 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 3 | RF-03 | Galería de proyectos destacados con enlaces | HU-01 | — | — | Hecho | dev-portfolio | — | — |
 | 4 | RNF-01 | Layout responsive, accesibilidad y optimización SEO | HU-01 | — | — | Hecho | dev-portfolio | — | — |
 | 5 | RF-01 | Vista/Modal de caso de estudio detallado de proyecto | HU-02 | — | — | Hecho | dev-portfolio | — | — |
-| 6 | RF-01 | Formulario de contacto con validaciones en tiempo real y protección antispam | HU-03 | — | — | Hacer | dev-portfolio | — | — |
-| 7 | RF-01 | Botón de acción y descarga/inspección de CV en PDF | HU-04 | — | — | Hacer | dev-portfolio | — | — |
+| 6 | RF-01 | Formulario de contacto con validaciones en tiempo real y protección antispam | HU-03 | — | — | Hecho | dev-portfolio | — | — |
+| 7 | RF-01 | Botón de acción y descarga/inspección de CV en PDF | HU-04 | — | — | Hecho | dev-portfolio | — | — |
 
 ## Detalle
 
@@ -37,7 +37,10 @@ Modal interactivo de caso de estudio completado y verificado para HU-02
 - Estimado: 4h
 
 ### RF-01 — Formulario de contacto con validaciones en tiempo real y protección antispam
+Formulario interactivo completado con validación en tiempo real, honeypot y rate-limiting para HU-03
 - Estimado: 3h
 
 ### RF-01 — Botón de acción y descarga/inspección de CV en PDF
+Botones de descarga directa y previsualización de CV en PDF integrados en Header, Hero y Contacto para HU-04
 - Estimado: 1h
+
