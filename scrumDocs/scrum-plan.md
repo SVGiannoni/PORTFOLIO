@@ -1,6 +1,6 @@
 # Plan de Requerimientos — PORTFOLIO 
 
-_Generado automáticamente el 2026-09-02T13:01:54.622Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-02T13:08:02.154Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -11,7 +11,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 3 | RF-03 | Galería de proyectos destacados con enlaces | HU-01 | — | — | Hecho | dev-portfolio | — | — |
 | 4 | RNF-01 | Layout responsive, accesibilidad y optimización SEO | HU-01 | — | — | Hecho | dev-portfolio | — | — |
 | 5 | RF-01 | Vista/Modal de caso de estudio detallado de proyecto | HU-02 | — | — | Hecho | dev-portfolio | — | — |
-| 6 | RF-01 | Formulario de contacto con validaciones en tiempo real y protección antispam | HU-03 | — | — | Hacer | dev-portfolio | — | — |
+| 6 | RF-01 | Formulario de contacto con validaciones en tiempo real y protección antispam | HU-03 | — | — | Haciendo | dev-portfolio | — | — |
 | 7 | RF-01 | Botón de acción y descarga/inspección de CV en PDF | HU-04 | — | — | Hacer | dev-portfolio | — | — |
 
 ## Detalle
@@ -37,6 +37,7 @@ Modal interactivo de caso de estudio completado y verificado para HU-02
 - Estimado: 4h
 
 ### RF-01 — Formulario de contacto con validaciones en tiempo real y protección antispam
+Inicio de desarrollo del formulario de contacto
 - Estimado: 3h
 
 ### RF-01 — Botón de acción y descarga/inspección de CV en PDF
