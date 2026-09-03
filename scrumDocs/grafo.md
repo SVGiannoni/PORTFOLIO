@@ -1,6 +1,6 @@
 # Grafo de Dependencias -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-03T11:55:34.780Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-03T11:59:54.439Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ```mermaid
 graph TD
@@ -18,5 +18,8 @@ graph TD
   end
   subgraph US_1788275889310["HU-04: Descarga e Inspección de CV / Resume"]
     REQ_1788276408368["RF-01: Botón de acción y descarga/inspección de CV en PDF"]
+  end
+  subgraph US_1788436790832["RO-01: crear una maquina virtual"]
+    REQ_1788436790839["RF-01: crear una maquina virtual"]
   end
 ```
