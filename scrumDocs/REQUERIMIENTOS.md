@@ -1,6 +1,6 @@
 # Requerimientos -- PORTFOLIO 
 
-_Generado automaticamente el 2026-09-03T11:55:33.643Z -- no editar a mano, se sobreescribe en cada publicacion._
+_Generado automaticamente el 2026-09-03T11:59:53.394Z -- no editar a mano, se sobreescribe en cada publicacion._
 
 ## HU-01: Presentación del Perfil y Trabajos Destacados
 
@@ -37,3 +37,9 @@ Implementar el formulario de contacto con validación de campos requeridos (Nomb
 ### RF-01: Botón de acción y descarga/inspección de CV en PDF (Funcional)
 
 Añadir los botones de acción destacados ("Descargar CV") en el encabezado y en la sección de contacto para la descarga directa o apertura en pestaña del curriculum en formato PDF.
+
+## RO-01: crear una maquina virtual
+
+### RF-01: crear una maquina virtual (Funcional)
+
+Se encarga infra, ya tienen una
