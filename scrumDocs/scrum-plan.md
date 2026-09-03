@@ -1,6 +1,6 @@
 # Plan de Requerimientos — PORTFOLIO 
 
-_Generado automáticamente el 2026-09-03T11:55:31.426Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-03T11:59:50.866Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
@@ -13,6 +13,7 @@ Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada f
 | 5 | RF-01 | Vista/Modal de caso de estudio detallado de proyecto | HU-02 | — | — | Hecho | dev-portfolio | — | — |
 | 6 | RF-01 | Formulario de contacto con validaciones en tiempo real y protección antispam | HU-03 | — | — | Hecho | dev-portfolio | — | — |
 | 7 | RF-01 | Botón de acción y descarga/inspección de CV en PDF | HU-04 | — | — | Hecho | dev-portfolio | — | — |
+| 8 | RF-01 | crear una maquina virtual | RO-01 | — | — | Hacer | Sin asignar | — | — |
 
 ## Detalle
 
@@ -43,3 +44,6 @@ Formulario de contacto interactivo completado con validación en tiempo real, ho
 ### RF-01 — Botón de acción y descarga/inspección de CV en PDF
 Botones de descarga y previsualización de CV en PDF integrados en Header, Hero y Contacto con PDF adjunto (HU-04 / RF-01)
 - Estimado: 1h
+
+### RF-01 — crear una maquina virtual
+- Estimado: 4h
