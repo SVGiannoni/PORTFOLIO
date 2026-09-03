@@ -1,6 +1,6 @@
 # Plan de Requerimientos — PORTFOLIO 
 
-_Generado automáticamente el 2026-09-03T13:07:51.734Z — no editar a mano, se sobreescribe en cada publicación._
+_Generado automáticamente el 2026-09-03T13:08:02.911Z — no editar a mano, se sobreescribe en cada publicación._
 
 Orden sugerido de desarrollo (respeta dependencias entre Requerimientos). Cada fila indica de qué Requerimientos depende, si tiene.
 
